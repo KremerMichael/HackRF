@@ -105,10 +105,10 @@ P 750 3250
 F 0 "U?" H 862 3195 50  0000 L CNN
 F 1 "GSG-XC2C64A-7VQG100C" H 862 3104 50  0000 L CNN
 F 2 "" H 750 3250 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/903/ds090-1594815.pdf" H 750 3250 50  0001 C CNN
-F 4 "XC2C64A-7VQ100C" H 750 3250 50  0001 C CNN "MFN"
-F 5 "Mouser" H 750 3250 50  0001 C CNN "Supplier"
-F 6 "217-XC2C64A-7VQ100C" H 750 3250 50  0001 C CNN "Supplier P/N"
+F 3 "https://www.xilinx.com/support/documentation/data_sheets/ds311.pdf" H 750 3250 50  0001 C CNN
+F 4 "XC2C64A-7VQG100C" H 750 3250 50  0001 C CNN "MFN"
+F 5 "Digi-Key" H 750 3250 50  0001 C CNN "Supplier"
+F 6 "122-1409-ND" H 750 3250 50  0001 C CNN "Supplier P/N"
 F 7 "4.75" H 750 3250 50  0001 C CNN "Item Cost"
 	1    750  3250
 	1    0    0    -1  
